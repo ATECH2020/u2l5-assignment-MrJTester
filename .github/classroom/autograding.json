@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "testConstructionTester1",
+      "setup": "",
+      "run": "gradle test --tests TestUnit2ProblemSet.testConstructionTester1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 5
+    },
+    {
+      "name": "testConstructionTester2",
+      "setup": "",
+      "run": "gradle test --tests TestUnit2ProblemSet.testConstructionTester2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 5
+    },
+    {
+      "name": "testHowFarAway1",
+      "setup": "",
+      "run": "gradle test --tests TestUnit2ProblemSet.testHowFarAway1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 5
+    },
+    {
+      "name": "testHowFarAway2",
+      "setup": "",
+      "run": "gradle test --tests TestUnit2ProblemSet.testHowFarAway2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 5
+    }
+  ]
+}
