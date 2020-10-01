@@ -4,14 +4,14 @@ public class ConstructionTester
     public static void main(String[] args)
     {
         double taxRate;
-				int numBoards;
-				int numWindows;
+				int windows;
+				int lumber;
+				double total;
 
-				Scanner scanner = new Scanner(System.in);
+				Scanner in = new Scanner(System.in);
 
-				System.out.print("Enter the sales tax rate: ");
+				System.out.println("Enter the sales tax rate: ");
 				
-				Construction myConstruction = new Construction();
 				
     }
 }
